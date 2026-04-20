@@ -13,4 +13,4 @@
 
 
 ## Current Goal
-Learning, Building Projects, Growing My Career
+Learning | Building Project | Growing My Career
