@@ -2,11 +2,15 @@
 
 🎓 Robotics & AI Engineering Student  
 💻 Interested in AI, Machine Learning, Data Analytics
-
 🚀 Building Python Projects
 
 ## Skills
-Python | Machine Learning | SQL | Streamlit | UiPath
+🤖 Artificial Intelligence & Machine Learning
+📊 Data Analytics & Predictive Modeling
+👁️ Computer Vision
+🌐 Natural Language Processing
+⚙️ Automation & RPA
+
 
 ## Current Goal
 Learning, Building Projects, Growing My Career
