@@ -2,6 +2,7 @@
 
 🎓 Robotics & AI Engineering Student  
 💻 Interested in AI, Machine Learning, Data Analytics
+
 🚀 Building Python Projects
 
 ## Skills
